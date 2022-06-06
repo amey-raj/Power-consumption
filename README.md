@@ -20,8 +20,12 @@ Given data has 9 Attributes as follows-
 
 ## Source
 Abdulwahed Salam, Abdelaaziz El Hibaoui
+
 Faculty of Sciences
+
 Tetouan, Morocco
+
 Abdelmalek Essaadi University
+
 Sallam.ye '@' yahoo.com, hibaoui '@' uae.ma
 [UCI link](https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city)
